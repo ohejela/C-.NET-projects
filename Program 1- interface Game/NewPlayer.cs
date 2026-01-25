@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Program_1__interface_Game
 {
-    public partial class Form1 : Form
+    public partial class NewPlayer : Form
     {
-        public Form1()
+        public NewPlayer()
         {
             InitializeComponent();
         }

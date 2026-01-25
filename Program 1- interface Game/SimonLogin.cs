@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Program_1__interface_Game
 {
-    public partial class LoginForm : Form
+    public partial class SimonLogin : Form
     {
-        public LoginForm()
+        public SimonLogin()
         {
             InitializeComponent();
         }
